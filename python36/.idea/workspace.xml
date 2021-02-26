@@ -19,6 +19,7 @@
     <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$DoubleLinkedListDemo.coverage" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1614078280640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$recursionDemo1.coverage" NAME="recursionDemo1 Coverage Results" MODIFIED="1614256715237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
+    <SUITE FILE_PATH="coverage/python36$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1614346740026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
     <SUITE FILE_PATH="coverage/python36$stackDemo.coverage" NAME="stackDemo Coverage Results" MODIFIED="1614138249892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$CircleList.coverage" NAME="CircleList Coverage Results" MODIFIED="1614089515916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1611759768675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
@@ -37,46 +38,46 @@
     <session id="-1018839962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dat" value="1" />
-          <entry key="py" value="43" />
+          <entry key="py" value="45" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="43" />
+          <entry key="Python" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="19479" />
+          <entry key="py" value="20911" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="19479" />
+          <entry key="Python" value="20911" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,6 +116,7 @@
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queue.txt" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/recursionDemo2.py" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queen.txt" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py" />
       </list>
     </option>
   </component>
@@ -138,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,7 +192,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.recursionDemo2">
+  <component name="RunManager" selected="Python.mytest">
+    <configuration name="mytest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python36" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="recursionDemo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python36" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,28 +251,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/recursionDemo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stackCalDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python36" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈/stackCalDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,19 +304,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.stackCalDemo" />
       <item itemvalue="Python.stackCalDemo1" />
       <item itemvalue="Python.stackCalDemo2" />
       <item itemvalue="Python.recursionDemo1" />
       <item itemvalue="Python.recursionDemo2" />
+      <item itemvalue="Python.mytest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mytest" />
         <item itemvalue="Python.recursionDemo2" />
         <item itemvalue="Python.recursionDemo1" />
         <item itemvalue="Python.stackCalDemo2" />
         <item itemvalue="Python.stackCalDemo1" />
-        <item itemvalue="Python.stackCalDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -334,12 +336,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2616721" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23669924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3854506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <marker date="1614179439356" expanded="true" signature="1695:1714" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,10 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1614241203652" expanded="true" signature="3322:3323" ph="..." />
-            <marker date="1614241203652" expanded="true" signature="3358:3700" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -469,9 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="165" lean-forward="true" selection-start-line="151" selection-end-line="165" />
-          <folding>
-            <marker date="1614226352410" expanded="true" signature="4105:5043" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,21 +471,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-          <folding>
-            <marker date="1614256762154" expanded="true" signature="153:243" ph="..." />
-            <marker date="1614256762154" expanded="true" signature="560:1174" ph="..." />
-            <marker date="1614256762154" expanded="true" signature="1187:1597" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queue.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queue.txt" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queen.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -503,12 +484,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/recursionDemo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="385">
+          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding>
             <marker date="1614259053408" expanded="true" signature="233:316" ph="..." />
             <marker date="1614259053408" expanded="true" signature="659:1067" ph="..." />
-            <marker date="1614259053408" expanded="true" signature="1092:1281" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <marker date="1614346740012" expanded="true" signature="309:1278" ph="..." />
+            <marker date="1614346740012" expanded="true" signature="1500:2392" ph="..." />
           </folding>
         </state>
       </provider>
