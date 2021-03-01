@@ -14,67 +14,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python36$arrayStackDemo.coverage" NAME="arrayStackDemo Coverage Results" MODIFIED="1614153128829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$recursionDemo1.coverage" NAME="recursionDemo1 Coverage Results" MODIFIED="1614256715237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
-    <SUITE FILE_PATH="coverage/python36$DoubleLinkedListDemo.coverage" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1614078280640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
-    <SUITE FILE_PATH="coverage/python36$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1614346740026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
-    <SUITE FILE_PATH="coverage/python36$stackCalDemo2.coverage" NAME="stackCalDemo2 Coverage Results" MODIFIED="1614241203666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$QueueDemo.coverage" NAME="QueueDemo Coverage Results" MODIFIED="1613813102607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
-    <SUITE FILE_PATH="coverage/python36$recursionDemo2.coverage" NAME="recursionDemo2 Coverage Results" MODIFIED="1614259053424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
-    <SUITE FILE_PATH="coverage/python36$LinkedListDemo.coverage" NAME="LinkedListDemo Coverage Results" MODIFIED="1613918080505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
-    <SUITE FILE_PATH="coverage/python36$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1611759768675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
-    <SUITE FILE_PATH="coverage/python36$phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1611908848011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
-    <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
-    <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614579734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
-    <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614588325119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
-    <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1613447790011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/稀疏数组" />
     <SUITE FILE_PATH="coverage/python36$QueueDemo2.coverage" NAME="QueueDemo2 Coverage Results" MODIFIED="1613814815365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
+    <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$DoubleLinkedListDemo.coverage" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1614078280640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
+    <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614579734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+    <SUITE FILE_PATH="coverage/python36$recursionDemo1.coverage" NAME="recursionDemo1 Coverage Results" MODIFIED="1614256715237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
+    <SUITE FILE_PATH="coverage/python36$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1614346740026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
     <SUITE FILE_PATH="coverage/python36$stackDemo.coverage" NAME="stackDemo Coverage Results" MODIFIED="1614138249892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$CircleList.coverage" NAME="CircleList Coverage Results" MODIFIED="1614089515916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
+    <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614604145121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
+    <SUITE FILE_PATH="coverage/python36$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1611759768675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/python36$LinkedListDemo.coverage" NAME="LinkedListDemo Coverage Results" MODIFIED="1613918080505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
+    <SUITE FILE_PATH="coverage/python36$phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1611908848011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/python36$QueueDemo.coverage" NAME="QueueDemo Coverage Results" MODIFIED="1613813102607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
     <SUITE FILE_PATH="coverage/python36$stackCalDemo1.coverage" NAME="stackCalDemo1 Coverage Results" MODIFIED="1614226254172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$recursionDemo2.coverage" NAME="recursionDemo2 Coverage Results" MODIFIED="1614259053424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
+    <SUITE FILE_PATH="coverage/python36$stackCalDemo2.coverage" NAME="stackCalDemo2 Coverage Results" MODIFIED="1614241203666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$arrayStackDemo.coverage" NAME="arrayStackDemo Coverage Results" MODIFIED="1614153128829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$stackCalDemo.coverage" NAME="stackCalDemo Coverage Results" MODIFIED="1614167344471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1018839962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dat" value="1" />
-          <entry key="py" value="46" />
+          <entry key="py" value="48" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="46" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="22286" />
+          <entry key="py" value="22779" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="22286" />
+          <entry key="Python" value="22779" />
         </counts>
       </usages-collector>
     </session>
@@ -109,14 +109,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="373">
+              <caret line="139" column="12" lean-forward="true" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
               <folding>
-                <marker date="1614588325022" expanded="true" signature="265:2006" ph="..." />
+                <marker date="1614603911146" expanded="true" signature="2136:3037" ph="..." />
               </folding>
             </state>
           </provider>
@@ -174,8 +174,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="517" />
+    <option name="y" value="109" />
     <option name="width" value="1400" />
     <option name="height" value="814" />
   </component>
@@ -204,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +241,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -405,15 +405,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="904" y="111" width="1400" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19627507" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20149253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31940702" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17083947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3854506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,13 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -575,12 +569,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/06排序/sortDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="226" lean-forward="true" selection-start-line="226" selection-end-line="226" />
+          <folding>
+            <element signature="e#341#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="373">
+          <caret line="139" column="12" lean-forward="true" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
           <folding>
-            <marker date="1614588325022" expanded="true" signature="265:2006" ph="..." />
+            <marker date="1614603911146" expanded="true" signature="2136:3037" ph="..." />
           </folding>
         </state>
       </provider>
