@@ -27,7 +27,7 @@
     <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614579734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
-    <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614587659531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
+    <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614588325119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
     <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1613447790011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/稀疏数组" />
     <SUITE FILE_PATH="coverage/python36$QueueDemo2.coverage" NAME="QueueDemo2 Coverage Results" MODIFIED="1613814815365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
@@ -97,12 +97,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1432" />
+          <entry key="py" value="1658" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1432" />
+          <entry key="Python" value="1658" />
         </counts>
       </usages-collector>
     </session>
@@ -112,10 +112,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
               <folding>
-                <marker date="1614587520013" expanded="true" signature="265:1506" ph="..." />
+                <marker date="1614588249879" expanded="true" signature="265:2010" ph="..." />
               </folding>
             </state>
           </provider>
@@ -172,7 +172,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -412,7 +412,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24663073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31940702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3854506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,10 +576,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
           <folding>
-            <marker date="1614587520013" expanded="true" signature="265:1506" ph="..." />
+            <marker date="1614588249879" expanded="true" signature="265:2010" ph="..." />
           </folding>
         </state>
       </provider>

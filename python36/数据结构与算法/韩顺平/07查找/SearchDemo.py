@@ -38,10 +38,17 @@ def binarySearch(array,x):
     while left<=right:
         mid=(left+right)//2
         if array[mid]==x:
-            for i in range(mid,len(array)):
-                if array[i]==x:
-                    res.append(i)
-
+            temp = mid - 1
+            while array[mid] == x:
+                res.append(mid)
+                mid = mid + 1
+                if mid >= len(array):
+                    break
+            while array[temp] == x:
+                res.append(temp)
+                temp = temp - 1
+                if temp < 0:
+                    break
             if len(res) == 1:
                 return res[0]
             else:
@@ -57,13 +64,26 @@ def binarySearch(array,x):
 def binarySearch2(array,left,right,x):
     if left>right or x<array[0] or x>array[-1]:
         return -1
-    mid=(left+right)//2
-    # mid=left+(right-left)*(x-array[left])//(array[right]-array[left])
+    # mid=(left+right)//2  # 二分查找
+    # 插值查找
+    mid=left+(right-left)*(x-array[left])//(array[right]-array[left])
+
+
     res=[]
     if array[mid]==x:
-        for i in range(mid, len(array)):
-            if array[i] == x:
-                res.append(i)
+        temp=mid-1
+        while array[mid]==x:
+            res.append(mid)
+            mid=mid+1
+            if mid >= len(array):
+                break
+        while array[temp]==x:
+            res.append(temp)
+            temp=temp-1
+            if temp <0:
+                break
+
+
         if len(res)==1:
             return res[0]
         else:
@@ -74,9 +94,8 @@ def binarySearch2(array,left,right,x):
         return binarySearch2(array, left, mid-1, x)
 
 
-
 if __name__ == '__main__':
-    array=[0,1,2,3,4,5,6,7,8,8]
+    array=[0,1,2,3,4,5,6,7,8,8,19]
     val=8
     print(seqSearch(array,val))
     print(binarySearch(array, val))
