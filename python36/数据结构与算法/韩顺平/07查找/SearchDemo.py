@@ -34,7 +34,7 @@ def binarySearch(array,x):
             right=mid-1
     return -1
 
-# 递归实现  有问题？
+# 递归实现
 def binarySearch2(array,left,right,x):
     if left>right:
         return -1
@@ -42,9 +42,9 @@ def binarySearch2(array,left,right,x):
     if array[mid]==x:
         return mid
     elif array[mid]<x:
-        binarySearch2(array, mid+1, right, x)
+        return binarySearch2(array, mid+1, right, x)
     elif array[mid]>x:
-        binarySearch2(array, left, mid-1, x)
+        return binarySearch2(array, left, mid-1, x)
 
 
 
