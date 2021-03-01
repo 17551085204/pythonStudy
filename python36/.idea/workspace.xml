@@ -27,6 +27,7 @@
     <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614579734489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+    <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614581686810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
     <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1613447790011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/稀疏数组" />
     <SUITE FILE_PATH="coverage/python36$QueueDemo2.coverage" NAME="QueueDemo2 Coverage Results" MODIFIED="1613814815365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
@@ -86,12 +87,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="711" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="711" />
         </counts>
       </usages-collector>
     </session>
@@ -99,10 +110,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py">
+        <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+            <state relative-caret-position="385">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <marker date="1614581479375" expanded="true" signature="199:878" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,6 +162,7 @@
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归/queen.txt" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py" />
       </list>
     </option>
   </component>
@@ -218,7 +233,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.递归算法应用的2个案例">
+  <component name="RunManager" selected="Python.SearchDemo">
     <configuration name="递归算法应用的2个案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python36" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,6 +270,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python36" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,42 +366,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stackCalDemo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python36" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈/stackCalDemo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.stackCalDemo2" />
       <item itemvalue="Python.recursionDemo1" />
       <item itemvalue="Python.recursionDemo2" />
       <item itemvalue="Python.mytest" />
       <item itemvalue="Python.递归算法应用的2个案例" />
+      <item itemvalue="Python.SearchDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SearchDemo" />
         <item itemvalue="Python.递归算法应用的2个案例" />
         <item itemvalue="Python.mytest" />
         <item itemvalue="Python.recursionDemo2" />
         <item itemvalue="Python.recursionDemo1" />
-        <item itemvalue="Python.stackCalDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -383,13 +398,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19627507" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19627507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23561347" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24663073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3854506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,8 +562,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        <state relative-caret-position="463">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <marker date="1614581479375" expanded="true" signature="199:878" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
