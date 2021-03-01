@@ -80,6 +80,7 @@ class Queen:
             if not self.judge(n):
                 self.check(n+1) # 如果不发生排斥，就可以继续放第n+1个皇后
 
+    # 打印所有摆放方式，用数组形式。
     def printQueen(self):
         self.check(0)
         print('{0}皇后共有{1}种不同的解法'.format(self.maxSize,self.count))
