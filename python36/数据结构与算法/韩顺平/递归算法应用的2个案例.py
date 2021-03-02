@@ -89,3 +89,5 @@ queen=Queen(8)
 queen.printQueen()
 
 
+
+
