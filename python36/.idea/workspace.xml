@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511f64c9-0b7d-4845-98ea-339717556fba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mytest/phone_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ArrBinaryTreeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/HeapSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ThreadedBinaryTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytest/Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/Hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,37 +17,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614684127756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+    <SUITE FILE_PATH="coverage/python36$recursionDemo1.coverage" NAME="recursionDemo1 Coverage Results" MODIFIED="1614256715237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
+    <SUITE FILE_PATH="coverage/python36$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1614346740026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+    <SUITE FILE_PATH="coverage/python36$CircleList.coverage" NAME="CircleList Coverage Results" MODIFIED="1614089515916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
+    <SUITE FILE_PATH="coverage/python36$phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1611908848011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/python36$QueueDemo.coverage" NAME="QueueDemo Coverage Results" MODIFIED="1613813102607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
+    <SUITE FILE_PATH="coverage/python36$ArrBinaryTreeDemo.coverage" NAME="ArrBinaryTreeDemo Coverage Results" MODIFIED="1614771342492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
+    <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$stackCalDemo.coverage" NAME="stackCalDemo Coverage Results" MODIFIED="1614167344471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$ThreadedBinaryTree.coverage" NAME="ThreadedBinaryTree Coverage Results" MODIFIED="1614774060389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
+    <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$SparseArray.coverage" NAME="SparseArray Coverage Results" MODIFIED="1613447790011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/稀疏数组" />
     <SUITE FILE_PATH="coverage/python36$QueueDemo2.coverage" NAME="QueueDemo2 Coverage Results" MODIFIED="1613814815365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
     <SUITE FILE_PATH="coverage/python36$treeDemo.coverage" NAME="treeDemo Coverage Results" MODIFIED="1614686845115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
     <SUITE FILE_PATH="coverage/python36$listStackDemo.coverage" NAME="listStackDemo Coverage Results" MODIFIED="1614138341702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$DoubleLinkedListDemo.coverage" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1614078280640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
-    <SUITE FILE_PATH="coverage/python36$2.coverage" NAME="递归算法应用的2个案例 Coverage Results" MODIFIED="1614684127756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
-    <SUITE FILE_PATH="coverage/python36$recursionDemo1.coverage" NAME="recursionDemo1 Coverage Results" MODIFIED="1614256715237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
-    <SUITE FILE_PATH="coverage/python36$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1614346740026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平" />
     <SUITE FILE_PATH="coverage/python36$stackDemo.coverage" NAME="stackDemo Coverage Results" MODIFIED="1614138249892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$BinaryTreeDemo.coverage" NAME="BinaryTreeDemo Coverage Results" MODIFIED="1614690249404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
-    <SUITE FILE_PATH="coverage/python36$CircleList.coverage" NAME="CircleList Coverage Results" MODIFIED="1614089515916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
+    <SUITE FILE_PATH="coverage/python36$BinaryTreeDemo.coverage" NAME="BinaryTreeDemo Coverage Results" MODIFIED="1614770650473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
     <SUITE FILE_PATH="coverage/python36$SearchDemo.coverage" NAME="SearchDemo Coverage Results" MODIFIED="1614604145121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
     <SUITE FILE_PATH="coverage/python36$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1611759768675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
     <SUITE FILE_PATH="coverage/python36$LinkedListDemo.coverage" NAME="LinkedListDemo Coverage Results" MODIFIED="1613918080505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
-    <SUITE FILE_PATH="coverage/python36$phone_number.coverage" NAME="phone_number Coverage Results" MODIFIED="1611908848011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
-    <SUITE FILE_PATH="coverage/python36$QueueDemo.coverage" NAME="QueueDemo Coverage Results" MODIFIED="1613813102607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/02队列" />
     <SUITE FILE_PATH="coverage/python36$stackCalDemo1.coverage" NAME="stackCalDemo1 Coverage Results" MODIFIED="1614226254172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
     <SUITE FILE_PATH="coverage/python36$recursionDemo2.coverage" NAME="recursionDemo2 Coverage Results" MODIFIED="1614259053424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/05递归" />
     <SUITE FILE_PATH="coverage/python36$stackCalDemo2.coverage" NAME="stackCalDemo2 Coverage Results" MODIFIED="1614241203666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
+    <SUITE FILE_PATH="coverage/python36$HeapSort.coverage" NAME="HeapSort Coverage Results" MODIFIED="1614784346354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
     <SUITE FILE_PATH="coverage/python36$arrayStackDemo.coverage" NAME="arrayStackDemo Coverage Results" MODIFIED="1614153128829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$testDemo.coverage" NAME="testDemo Coverage Results" MODIFIED="1614133795275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$stackCalDemo.coverage" NAME="stackCalDemo Coverage Results" MODIFIED="1614167344471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/04栈" />
-    <SUITE FILE_PATH="coverage/python36$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1614005780689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/03链表" />
     <SUITE FILE_PATH="coverage/python36$HashTableDemo.coverage" NAME="HashTableDemo Coverage Results" MODIFIED="1614609735407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/韩顺平/08哈希表" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1018839962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -53,33 +60,33 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dat" value="1" />
-          <entry key="py" value="54" />
+          <entry key="py" value="63" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="54" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="py" value="27272" />
+          <entry key="py" value="29473" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="27272" />
+          <entry key="Python" value="29473" />
         </counts>
       </usages-collector>
     </session>
@@ -114,17 +121,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/leetcode/editor/cn/[1]两数之和.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,8 +165,11 @@
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/08哈希表/HashTableDemo.py" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py" />
         <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/treeDemo.py" />
-        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/BinaryTreeDemo.py" />
         <option value="$PROJECT_DIR$/leetcode/leetcode/editor/cn/[1]两数之和.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/BinaryTreeDemo.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ArrBinaryTreeDemo.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ThreadedBinaryTree.py" />
+        <option value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/HeapSort.py" />
       </list>
     </option>
   </component>
@@ -180,10 +180,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="193" />
-    <option name="y" value="123" />
+    <option name="x" value="441" />
+    <option name="y" value="89" />
     <option name="width" value="1310" />
-    <option name="height" value="876" />
+    <option name="height" value="966" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -210,7 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,33 +220,19 @@
             <path>
               <item name="python36" type="b2602c69:ProjectViewProjectNode" />
               <item name="python36" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python36" type="b2602c69:ProjectViewProjectNode" />
               <item name="python36" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python36" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python36" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python36" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python36" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
+              <item name="韩顺平" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BinaryTreeDemo">
-    <configuration name="递归算法应用的2个案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.HeapSort">
+    <configuration name="ArrBinaryTreeDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python36" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/递归算法应用的2个案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ArrBinaryTreeDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HashTableDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python36" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +315,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/08哈希表" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/08哈希表/HashTableDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/HeapSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SearchDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ThreadedBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python36" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,12 +337,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ThreadedBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,19 +374,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.递归算法应用的2个案例" />
-      <item itemvalue="Python.SearchDemo" />
-      <item itemvalue="Python.HashTableDemo" />
       <item itemvalue="Python.treeDemo" />
       <item itemvalue="Python.BinaryTreeDemo" />
+      <item itemvalue="Python.ArrBinaryTreeDemo" />
+      <item itemvalue="Python.ThreadedBinaryTree" />
+      <item itemvalue="Python.HeapSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HeapSort" />
+        <item itemvalue="Python.ThreadedBinaryTree" />
+        <item itemvalue="Python.ArrBinaryTreeDemo" />
         <item itemvalue="Python.BinaryTreeDemo" />
         <item itemvalue="Python.treeDemo" />
-        <item itemvalue="Python.递归算法应用的2个案例" />
-        <item itemvalue="Python.HashTableDemo" />
-        <item itemvalue="Python.SearchDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -420,14 +405,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17386666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15573333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34201956" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21389794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3854506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,12 +422,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32899022" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="right" id="leetcode" side_tool="true" visible="true" weight="0.11466666" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.06933333" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,13 +561,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/mytest.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/06排序/sortDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="226" lean-forward="true" selection-start-line="226" selection-end-line="226" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/07查找/SearchDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -605,24 +582,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/BinaryTreeDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/leetcode/editor/cn/[2]两数相加.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/leetcode/editor/cn/[2]两数相加.py" />
     <entry file="file://$PROJECT_DIR$/leetcode/leetcode/editor/cn/[1]两数之和.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
+        <state relative-caret-position="1277">
           <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/BinaryTreeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="189" column="29" lean-forward="true" selection-start-line="177" selection-start-column="4" selection-end-line="189" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ArrBinaryTreeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <marker date="1614771371027" expanded="true" signature="160:1381" ph="..." />
+            <marker date="1614771371027" expanded="true" signature="291:298" ph="..." />
+            <marker date="1614771371027" expanded="true" signature="291:300" ph="..." />
+            <marker date="1614771371027" expanded="true" signature="291:302" ph="..." />
+            <marker date="1614771371027" expanded="true" signature="291:303" ph="..." />
+            <marker date="1614771371027" expanded="true" signature="291:305" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/ThreadedBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="224" column="9" lean-forward="true" selection-start-line="224" selection-start-column="9" selection-end-line="224" selection-end-column="9" />
+          <folding>
+            <marker date="1614774060370" expanded="true" signature="2875:5087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/06排序/sortDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="225" column="42" lean-forward="true" selection-start-line="205" selection-start-column="4" selection-end-line="225" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法/韩顺平/09二叉树/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#122#133#0" expanded="true" />
+            <marker date="1614784346340" expanded="true" signature="271:608" ph="..." />
+            <marker date="1614784346340" expanded="true" signature="634:639" ph="..." />
+            <marker date="1614784346340" expanded="true" signature="678:1264" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
